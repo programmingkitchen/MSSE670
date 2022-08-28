@@ -4,8 +4,11 @@
 ## Revision History
 
 **8/27/22**
--Uploaded Week 2 Fleet Rental Code.
--Uploaded docs for the Airline Reservation Assignment
+
+Uploaded Week 2 Fleet Rental Code.
+
+Uploaded docs for the Airline Reservation Assignment
+
 
 
 ## AIRLINE RESERVATION SYSTEM
